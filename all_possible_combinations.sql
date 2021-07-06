@@ -1,3 +1,4 @@
+-- concept : self-join : meaning a table is joined to itself.
 --input --
 
 -- Teamname
@@ -25,4 +26,4 @@ where a.Teamname < b.Teamname
 order by a.Teamname
 
 
-Note: These are all possible combinations, meaning combination of AUSTRALIA - INDIA is same as INDIA - AUSTRALIA so it wont appear second time.
+-- Note: These are all possible combinations, meaning combination of AUSTRALIA - INDIA is same as INDIA - AUSTRALIA so it wont appear second time.
