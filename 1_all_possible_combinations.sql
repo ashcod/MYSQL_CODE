@@ -27,3 +27,6 @@ order by a.Teamname
 
 
 -- Note: These are all possible combinations, meaning combination of AUSTRALIA vs INDIA is same as INDIA vs AUSTRALIA so it wont appear second time.
+
+
+-- inspiration : vishal kaushal
