@@ -10,4 +10,4 @@ CREATE SCHEMA IF NOT EXISTS Sales;
 
 
 -- Using the above created database
-USE Sales_new;
+USE Sales;
