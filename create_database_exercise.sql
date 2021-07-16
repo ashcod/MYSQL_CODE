@@ -7,3 +7,7 @@ CREATE DATABASE IF NOT EXISTS Sales;
 
 -- Creating a Sales_new database [Alternative to create database]
 CREATE SCHEMA IF NOT EXISTS Sales;
+
+
+-- Using the above created database
+USE Sales_new;
