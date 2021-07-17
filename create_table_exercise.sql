@@ -23,3 +23,9 @@ CREATE TABLE customers(
         email_address VARCHAR(255),
         number_of_complaints VARCHAR(255) NOT NULL
 );
+
+
+
+
+
+-- Assignment from 365Careers BI
