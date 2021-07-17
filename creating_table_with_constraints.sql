@@ -14,3 +14,11 @@ PRIMARY KEY (purchase_number)
 
 -- YOU CAN ADD FOREIGN KEY WHEN CREATING THE TABLE, ELSE YOU CAN ALTER IT LATER WITH THE FOLLOWING QUERY
 ALTER TABLE sales ADD FOREIGN KEY (customer_id) REFERENCES customer(customer_id);
+
+
+
+
+
+
+
+-- Assignment from 365Careers BI
