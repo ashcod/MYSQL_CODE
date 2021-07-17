@@ -11,3 +11,9 @@ CREATE SCHEMA IF NOT EXISTS Sales;
 
 -- Using the above created database
 USE Sales;
+
+
+
+
+
+-- Assignment from 365Careers BI
